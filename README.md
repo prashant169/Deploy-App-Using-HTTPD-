@@ -32,5 +32,3 @@ Activate the Web server
 
 Create a simple web page
 ![Image ](/Screenshot.JPG)
-
-![Capture](https://github.com/prashant169/Deploy-App-Using-HTTPD-/assets/78464585/e44baf30-f2de-4455-931b-b0e80b7154ca)
