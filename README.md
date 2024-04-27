@@ -31,4 +31,5 @@ Configure the web server to automatically start on boot
 Activate the Web server
 
 Create a simple web page
+
 ![Image ](/Screenshot.JPG)
